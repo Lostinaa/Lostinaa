@@ -29,14 +29,9 @@ const natenael = {
     ],
   },
   code: [
-    "Go",
-    "Rust",
-    "Python",
-    "PHP",
-    "JavaScript",
-    "TypeScript",
-    "HTML",
-    "CSS",
+"Go", "Rust", "Python",
+"PHP", "JavaScript", "TypeScript",
+"HTML","CSS",
   ],
   technologies: {
     frontEnd: {
