@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Natenael Nebiyu
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Tech+Entrepreneur;Arch+Linux+User" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -9,7 +9,35 @@
 ```javascript
 const natenael = {
   pronouns: "He" | "Him",
-  code: ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
+  role: "Full Stack Developer & Tech Entrepreneur",
+  education: {
+    degree: "Bachelor's in Information Technology",
+    universities: ["Mekelle University", "Axum University"],
+    expertise: [
+      "OOP",
+      "DBMS",
+      "Algorithms",
+      "Operating Systems",
+      "Data Structures",
+    ],
+  },
+  experience: {
+    current: "Founder & CEO at Dalhak Tech",
+    previous: [
+      "Junior Software Engineer at Resmax",
+      "Start-up Trainee at Solve IT | Icog Labs",
+    ],
+  },
+  code: [
+    "Go",
+    "Rust",
+    "Python",
+    "PHP",
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+  ],
   technologies: {
     frontEnd: {
       js: ["React", "Next.js", "Tailwind CSS"],
@@ -18,12 +46,14 @@ const natenael = {
     backEnd: {
       js: ["Node", "Express"],
       python: ["Django", "Flask"],
+      php: ["Laravel"],
+      systems: ["Go", "Rust"],
     },
-    databases: ["PostgreSQL", "MongoDB"],
-    devOps: ["Docker", "Git", "VS Code"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL"],
+    devOps: ["Docker", "Git", "VS Code", "Arch Linux"],
   },
-  currentFocus: "Building scalable web applications",
-  funFact: "I can debug code while sleeping 😴",
+  currentFocus: "Health Tech Innovation & Scalable Web Applications",
+  funFact: "I use Arch, btw 😎",
 };
 ```
 
@@ -31,9 +61,13 @@ const natenael = {
 
 <div align="center">
   
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -41,9 +75,34 @@ const natenael = {
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
 </div>
+
+## 🌟 Professional Journey
+
+### 🎓 Education
+
+- **Bachelor's in Information Technology**
+  - Transfer student from Mekelle and Axum Universities
+  - Specialized in OOP, DBMS, Algorithms, Operating Systems, and Data Structures
+
+### 💼 Work Experience
+
+- **Founder & CEO at Dalhak Tech**
+
+  - Developed comprehensive health information management database
+  - Delivered web and mobile applications
+  - Leading innovation in health tech sector
+
+- **Junior Software Engineer at Resmax**
+
+  - Built Employee Management web application using PHP
+  - Implemented robust DBMS solutions
+
+- **Start-up Trainee at Solve IT | Icog Labs**
+  - Contributed to business model development
+  - Designed products in health tech sector
 
 ## 🌟 Featured Projects
 
@@ -83,24 +142,28 @@ const natenael = {
 
 ## ⚡ Fun Facts
 
-- 🌱 Currently diving deep into **Web3** and **Blockchain Development**
+- 🌱 Currently exploring **Web3** and **Blockchain Development**
 - 🎯 2024 Goals:
+  - Scale Dalhak Tech's health tech solutions
   - Contribute to open-source projects
-  - Master system design
-  - Build a personal brand
+  - Master system design and architecture
+  - Build a stronger tech community
 - 🎮 When I'm not coding, I'm:
-  - Playing chess ♟️
-  - Reading tech blogs 📚
-  - Exploring new coffee shops ☕
+  - Exploring new technologies
+  - Contributing to tech communities
+  - Building innovative solutions
+  - "I use Arch, btw" 😎
 
 ## 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
 ```text
-Python       ████████████████████░░░░   80.0%
-JavaScript   ████████░░░░░░░░░░░░░░░░   30.0%
-TypeScript   ██████░░░░░░░░░░░░░░░░░░   20.0%
+Go           ████████████████████░░░░   80.0%
+Rust         ████████████░░░░░░░░░░░░   60.0%
+Python       ██████████░░░░░░░░░░░░░░   50.0%
+PHP/Laravel  ████████░░░░░░░░░░░░░░░░   40.0%
+JavaScript   ████████░░░░░░░░░░░░░░░░   40.0%
 ```
 
 <!--END_SECTION:waka-->
