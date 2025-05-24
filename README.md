@@ -26,21 +26,16 @@ const natenael = {
     ],
   },
   experience: {
-    current: "Founder & CEO at Dalhak Tech",
+    current:["SE @ Ethio-Telecom,
+      "Founder & CEO at Dalhak Tech",
+    ],
     previous: [
       "Junior Software Engineer at Resmax",
       "Start-up Trainee at Solve IT | Icog Labs",
     ],
   },
   code: [
-    "Go",
-    "Rust",
-    "Python",
-    "PHP",
-    "JavaScript",
-    "TypeScript",
-    "HTML",
-    "CSS",
+    "Go","Rust","Python","PHP","JavaScript","TypeScript","HTML","CSS",
   ],
   technologies: {
     frontEnd: {
