@@ -11,7 +11,7 @@ const natenael = {
   pronouns: "He" | "Him",
   role: "Full Stack Developer & Tech Entrepreneur",
   education: {
-    degree: "Bachelor's in Information Technology",
+    degree: "Bachelor's in  Computer, Information Technology",
     universities: ["Mekelle University", "Axum University"],
     expertise: [
       "OOP",
