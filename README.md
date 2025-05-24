@@ -115,19 +115,7 @@ const natenael = {
   </a>
 </div>
 
-## ⚡ Fun Facts
 
-- 🌱 Currently exploring **Web3** and **Blockchain Development**
-- 🎯 2024 Goals:
-  - Scale Dalhak Tech's health tech solutions
-  - Contribute to open-source projects
-  - Master system design and architecture
-  - Build a stronger tech community
-- 🎮 When I'm not coding, I'm:
-  - Exploring new technologies
-  - Contributing to tech communities
-  - Building innovative solutions
-  - "I use Arch, btw" 😎
 
 ## 📈 Weekly Development Breakdown
 
