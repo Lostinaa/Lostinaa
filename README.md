@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/mario.gif" width="500" height="320" />
 </div>
 
 ## 🚀 About Me
@@ -118,8 +118,6 @@ const natenael = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-
 
 ## 📈 Weekly Development Breakdown
 
