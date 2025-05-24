@@ -29,9 +29,14 @@ const natenael = {
     ],
   },
   code: [
-"Go", "Rust", "Python",
-"PHP", "JavaScript", "TypeScript",
-"HTML","CSS",
+    "Go",
+    "Rust",
+    "Python",
+    "PHP",
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
   ],
   technologies: {
     frontEnd: {
@@ -73,31 +78,6 @@ const natenael = {
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
 </div>
-
-## 🌟 Professional Journey
-
-### 🎓 Education
-
-- **Bachelor's in Information Technology**
-  - Transfer student from Mekelle and Axum Universities
-  - Specialized in OOP, DBMS, Algorithms, Operating Systems, and Data Structures
-
-### 💼 Work Experience
-
-- **Founder & CEO at Dalhak Tech**
-
-  - Developed comprehensive health information management database
-  - Delivered web and mobile applications
-  - Leading innovation in health tech sector
-
-- **Junior Software Engineer at Resmax**
-
-  - Built Employee Management web application using PHP
-  - Implemented robust DBMS solutions
-
-- **Start-up Trainee at Solve IT | Icog Labs**
-  - Contributed to business model development
-  - Designed products in health tech sector
 
 ## 🌟 Featured Projects
 
