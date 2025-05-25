@@ -1,8 +1,4 @@
-# <div align="center">
-
-  <img src="angry ninja GIF by Meet Aiko.gif" width="30px" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;">
-  Hi there, I'm Natenael Nebiyu
-</div>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Natenael Nebiyu
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00ADD8&background=000000&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;Tech+Entrepreneur;Arch+Linux+User&color=00ADD8&color=2E8B57&color=FF2D20" alt="Typing SVG" />
