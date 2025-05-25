@@ -1,11 +1,7 @@
 # <div align="center">
 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h1>
-    <font color="#00ADD8">Hi there, I'm </font>
-    <font color="#2E8B57">Natenael </font>
-    <font color="#FF2D20">Nebiyu</font>
-  </h1>
+  <img src="https://img.shields.io/badge/Hi_there,_I'm_Natenael_Nebiyu-00ADD8?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 <div align="center">
