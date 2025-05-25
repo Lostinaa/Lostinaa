@@ -2,9 +2,9 @@
 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <h1>
-    <span style="color: #00ADD8">Hi there, I'm </span>
-    <span style="color: #2E8B57">Natenael </span>
-    <span style="color: #FF2D20">Nebiyu</span>
+    <font color="#00ADD8">Hi there, I'm </font>
+    <font color="#2E8B57">Natenael </font>
+    <font color="#FF2D20">Nebiyu</font>
   </h1>
 </div>
 
