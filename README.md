@@ -4,14 +4,6 @@
   <span style="font-size: 2.8em; font-weight: 800; color: #00ADD8;">Hi there, I'm </span><span style="font-size: 2.8em; font-weight: 800; color: #2E8B57;">Natenael </span><span style="font-size: 2.8em; font-weight: 800; color: #FF2D20;">Nebiyu</span>
 </div>
 
-<style>
-@keyframes shine {
-  to {
-    background-position: 200% center;
-  }
-}
-</style>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=00ADD8&background=000000&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;Tech+Entrepreneur;Arch+Linux+User;Open+Source+Contributor" alt="Typing SVG" />
 </div>
