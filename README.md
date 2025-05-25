@@ -2,9 +2,9 @@
 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <br>
-  <img src="https://img.shields.io/badge/-Hi_there,_I'm-00ADD8?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Natenael-2E8B57?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nebiyu-FF2D20?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hi_there,_I'm-00ADD8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Natenael-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nebiyu-FF2D20?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 <div align="center">
