@@ -1,15 +1,9 @@
-# <div align="center">
+# <p align="center">
 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <br>
-  <img src="https://img.shields.io/badge/-Hi_there,_I'm-00ADD8?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Natenael-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nebiyu-FF2D20?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=00ADD8&background=000000&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;Tech+Entrepreneur;Arch+Linux+User;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Natenael+Nebiyu;Full+Stack+Developer+%26+Tech+Entrepreneur" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" height="400" />
