@@ -1,4 +1,16 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Natenael Nebiyu
+# <div align="center">
+
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-right: 10px">
+  <span style="font-size: 2.8em; font-weight: 800; background: linear-gradient(45deg, #00ADD8, #2E8B57, #FF2D20); background-size: 200% auto; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: shine 3s linear infinite; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">Hi there, I'm Natenael Nebiyu</span>
+</div>
+
+<style>
+@keyframes shine {
+  to {
+    background-position: 200% center;
+  }
+}
+</style>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=00ADD8&background=000000&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;Tech+Entrepreneur;Arch+Linux+User;Open+Source+Contributor" alt="Typing SVG" />
