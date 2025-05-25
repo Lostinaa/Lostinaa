@@ -1,4 +1,7 @@
-# <img src="angry ninja GIF by Meet Aiko.gif" width="40" style="border-radius: 50%; overflow: hidden; display: inline-block; vertical-align: middle;"> Hi there, I'm Natenael Nebiyu
+# <div style="display: inline-block; background: #00ADD8; border-radius: 50%; padding: 5px;">
+
+  <img src="angry ninja GIF by Meet Aiko.gif" width="40" style="vertical-align: middle;">
+</div> Hi there, I'm Natenael Nebiyu
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00ADD8&background=000000&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;Tech+Entrepreneur;Arch+Linux+User&color=00ADD8&color=2E8B57&color=FF2D20" alt="Typing SVG" />
