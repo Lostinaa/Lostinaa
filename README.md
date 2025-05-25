@@ -1,7 +1,11 @@
 # <div align="center">
 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-right: 10px">
-  <span style="font-size: 2.8em; font-weight: 800; color: #00ADD8;">Hi there, I'm </span><span style="font-size: 2.8em; font-weight: 800; color: #2E8B57;">Natenael </span><span style="font-size: 2.8em; font-weight: 800; color: #FF2D20;">Nebiyu</span>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <h1>
+    <span style="color: #00ADD8">Hi there, I'm </span>
+    <span style="color: #2E8B57">Natenael </span>
+    <span style="color: #FF2D20">Nebiyu</span>
+  </h1>
 </div>
 
 <div align="center">
