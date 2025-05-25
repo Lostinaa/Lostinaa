@@ -1,6 +1,6 @@
 # <div align="center" style="position: relative;">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="position: absolute; width: 100%; height: 100%; object-fit: cover; opacity: 0.2; z-index: 0;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="position: absolute; width: 100%; height: 100%; object-fit: cover; opacity: 0.15; z-index: 0;">
   <div style="position: relative; z-index: 1; padding: 20px;">
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-right: 10px">
     <span style="font-size: 2.5em; font-weight: bold; background: linear-gradient(45deg, #00ADD8, #2E8B57); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi there, I'm Natenael Nebiyu</span>
@@ -9,10 +9,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=1000&color=00ADD8&background=000000&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;Tech+Entrepreneur;Arch+Linux+User;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" height="400" />
 </div>
 
 ## 🚀 About Me
