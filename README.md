@@ -78,16 +78,7 @@ const natenael = {
 
 </div>
 
-## 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/lostinaa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lostinaa&repo=YOUR_REPO&theme=radical" />
-  </a>
-  <a href="https://github.com/lostinaa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lostinaa&repo=YOUR_REPO&theme=radical" />
-  </a>
-</div>
 
 ## 📊 GitHub Stats
 
