@@ -1,4 +1,4 @@
-# <img src="angry ninja GIF by Meet Aiko.gif" width="40" style="border-radius: 50%; overflow: hidden; display: inline-block; vertical-align: middle;"> <span style="color: #00ADD8">Hi there, I'm </span><span style="color: #2E8B57">Natenael </span><span style="color: #FF2D20">Nebiyu</span>
+# <img src="angry ninja GIF by Meet Aiko.gif" width="40" style="border-radius: 50%; overflow: hidden; display: inline-block; vertical-align: middle;"> <span style="color: #00ADD8; font-size: 1.2em; font-weight: bold;">Hi there, I'm </span><span style="color: #2E8B57; font-size: 1.2em; font-weight: bold;">Natenael </span><span style="color: #FF2D20; font-size: 1.2em; font-weight: bold;">Nebiyu</span>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00ADD8&background=000000&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;Tech+Entrepreneur;Arch+Linux+User&color=00ADD8&color=2E8B57&color=FF2D20" alt="Typing SVG" />
